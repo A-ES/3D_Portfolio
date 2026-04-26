@@ -59,7 +59,7 @@ Complete with Open Graph (OG) meta tags configured for perfect and seamless thum
 A brief look at how the architecture is organized for maintainability:
 
 ```text
-satyam-portfolio/
+abrar-portfolio/
 ├── public/                 # Static assets, Open Graph images & raw SVGs
 ├── src/                    # Primary Application Source Code
 │   ├── components/         # Reusable React UI Components (Hero, Header, etc.)
@@ -83,7 +83,7 @@ Feel free to reach out for collaborations, inquiries, or any interesting opportu
 
 <div align="center">
   <p>
-    This project and its design are proprietary to <b>Satyam Kumar Jha</b>. <br/>
-    All rights reserved. © 2026 Satyam Kumar Jha.
+    This project and its design are modified by <b>Mohammed Abrar</b>. <br/>
+    All rights reserved. © 2026 Mohammed Abrar.
   </p>
 </div>
