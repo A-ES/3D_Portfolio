@@ -1,20 +1,9 @@
 <div align="center">
   
 
-  <h1>Premium Personal Portfolio</h1>
+  <h1>Personal Portfolio</h1>
   
-  <p>
-    <strong>A high-performance, visually striking personal portfolio website built to showcase software engineering expertise, projects, and professional background.</strong>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-    <img src="https://img.shields.io/badge/Spline_3D-white?style=for-the-badge&logo=spline&logoColor=black" alt="Spline" />
-  </p>
+ 
 </div>
 
 ---
